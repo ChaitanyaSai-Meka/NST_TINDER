@@ -8,7 +8,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/nst-logo.jpg" /> 
+        <link rel="icon" href="/logo.jpg" />
       </head>
       <body>
         {children}
